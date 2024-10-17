@@ -1,0 +1,9 @@
+title: Portfolio de Aplicacões Informáticas
+author: Pedro Almeida
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+exclude:
+  - aulas/template_aula.md

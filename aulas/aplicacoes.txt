@@ -1,0 +1,17 @@
+-> critica e analise por aula
+-> descrição do que foi feito na aula
+----------------------------------------
+9/10: 
+    - condicoes
+    - if statements; elif; else
+    - ficha 3
+11/10:
+    - continuação da ficha 3
+    - ciclos
+        - usados para não sobrecarregar o processador, devido ao facto de ser apenas um único processo que se repete n vezes
+        - criam menos erros
+        - while loop
+        - for loop; range(start, stop, step)
+16/10:
+    - codeweek
+    - responder ao questionário da atividade
