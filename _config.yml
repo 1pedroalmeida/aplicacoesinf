@@ -1,4 +1,5 @@
-title: Portfolio de Aplicacões Informáticas
+title: Portfolio
+description: Portfolio das aulas de aplicações informáticas
 author: Pedro Almeida
 plugins:
   - jekyll-relative-links
@@ -7,3 +8,4 @@ relative_links:
   collections: true
 exclude:
   - aulas/template_aula.md
+  - aulas/aplicacoes.txt
