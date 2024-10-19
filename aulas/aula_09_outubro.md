@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>Índice:</summary>
+<summary><h3><b><u>Índice (clicar para expandir)</u></b></h3></summary>
 
 1. [Conteúdos dados na aula](#conteúdos-dados-na-aula)
     - [Operadores de relação](#operadores-de-relação)
