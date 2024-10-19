@@ -1,6 +1,6 @@
 # Aula do dia 9 de outubro de 2024
 
-<h3><b><u>Índice (clicar para expandir)</u></b></h3>
+<h3><b>Índice</b></h3>
 
 1. [Conteúdos dados na aula](#conteúdos-dados-na-aula)
     - [Operadores de relação](#operadores-de-relação)

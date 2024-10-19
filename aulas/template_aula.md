@@ -1,6 +1,6 @@
 # Aula do dia -- de --- de ----
 
-<h3><b><u>Índice (clicar para expandir)</u></b></h3>
+<h3><b>Índice</b></h3>
 
 1. [Conteúdos dados na aula](#conteúdos-dados-na-aula)
 2. [Trabalho realizado na aula](#trabalho-realizado-na-aula)
