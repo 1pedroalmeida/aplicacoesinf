@@ -1,8 +1,20 @@
 # Aula do dia 11 de outubro de 2024
+---
+
+## Índice
+
+1. [Conteúdos dados na aula](#conteúdos-dados-na-aula)
+    - [Ciclos](#ciclos)
+        - [While loop](#while-loop)
+        - [For loop](#for-loop)
+2. [Trabalho realizado na aula](#trabalho-realizado-na-aula)
+3. [Análise crítica à aula](#análise-crítica-à-aula)
+
+---
 
 ## Conteúdos dados na aula
 
-### 1. Ciclos
+### Ciclos
 
 #### While loop
 

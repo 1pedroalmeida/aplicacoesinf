@@ -1,4 +1,4 @@
-# Aula do dia 2 de outubro de 2024
+# Aula do dia 18 de outubro de 2024
 ---
 
 ## Índice
@@ -13,6 +13,7 @@
 
 ## Trabalho realizado na aula
 
+Conclusão da realização da [ficha 3](../trabalhos/D1_PedroAlmeida_Ficha03.py)
+
 ## Análise crítica à aula
 
-TODO

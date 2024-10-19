@@ -1,8 +1,20 @@
 # Aula do dia 9 de outubro de 2024
+---
+
+## Índice
+
+1. [Conteúdos dados na aula](#conteúdos-dados-na-aula)
+    - [Operadores de relação](#operadores-de-relação)
+    - [Condições (if, else, elif)](#condições-if-else-elif)
+    - [Operadores lógicos (and, or, not)](#operadores-lógicos-and-or-not)
+2. [Trabalho realizado na aula](#trabalho-realizado-na-aula)
+3. [Análise crítica à aula](#análise-crítica-à-aula)
+
+---
 
 ## Conteúdos dados na aula
 
-### 1. Operadores de relação
+### Operadores de relação
 
 - Igual: `a == b`
 - Diferente: `a != b`
@@ -11,7 +23,7 @@
 - Maior que: `a > b`
 - Maior ou igual que: `a >= b`
 
-### 2. Condições (if, else, elif)
+### Condições (if, else, elif)
 
 #### If
 
@@ -57,7 +69,7 @@ else:
 
 Neste exemplo, como `1 > 2` é uma condição falsa, o bloco de código dentro da instrução `if` será ignorado e o bloco de código dentro da instrução `else` será executado. Deste modo, "Falso" será exibido no terminal.
 
-### 3. Operadores lógicos (and, or, not)
+### Operadores lógicos (and, or, not)
 
 Os operadores lógicos `and`, `or` e `not` combinam condições lógicas e avaliam se uma dada expressão é verdadeira ou falsa.
 

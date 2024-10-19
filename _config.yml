@@ -8,4 +8,4 @@ relative_links:
   collections: true
 exclude:
   - aulas/template_aula.md
-  - aulas/aplicacoes.txt
+  - aplicacoes.txt
