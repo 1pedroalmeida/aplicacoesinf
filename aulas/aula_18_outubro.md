@@ -41,6 +41,41 @@ import turtle
 | setposition() | setpos() ou goto() | Posicionar nas coordenadas indicadas |
 | dot() | n/a | Marcar um ponto na localização corrente |
 | circle() | n/a | Desenhar um círculo |
+| clear() | n/a | Apagar todos os desenhos no ecrã |
+
+#### Exemplos
+
+1. Desenhar um triângulo
+
+```python
+import turtle
+
+turtle.forward(100)
+turtle.left(120)
+turtle.forward(100)
+turtle.left(120)
+turtle.forward(100)
+```
+
+2. Desenhar um círculo de raio 60
+
+```python
+import turtle
+
+turtle.circle(60)
+```
+
+3. Desenhar um quadrado e depois apagá-lo
+
+```python
+import turtle
+
+for i in range(4):
+    turtle.forward(100)
+    turtle.left(90)
+
+turtle.clear()
+```
 
 ## Trabalho realizado na aula
 
