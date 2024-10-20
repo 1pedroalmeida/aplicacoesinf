@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Portfolio de aplicações informáticas
+# Portefolio de aplicações informáticas
 
 ### Registo das aulas
 
