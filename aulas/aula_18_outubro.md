@@ -79,9 +79,8 @@ turtle.clear()
 
 ## Trabalho realizado na aula
 
-Conclusão da realização da [ficha 3](../trabalhos/D1_PedroAlmeida_Ficha03.py)
-
-Início da realização da [ficha 4](../trabalhos/D1_PedroAlmeida_Ficha04.py)
+- Conclusão da realização da [ficha 3](../trabalhos/D1_PedroAlmeida_Ficha03.py)
+- Início da realização da [ficha 4](../trabalhos/D1_PedroAlmeida_Ficha04.py)
 
 ## Análise crítica à aula
 
