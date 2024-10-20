@@ -5,16 +5,6 @@
 <script type="text/javascript">
     document.documentElement.setAttribute('data-color-mode', "dark");
 
-    btdiv = document.getElementById("btdiv")
-
-    btdiv.addEventListener("mouseover", function() {
-        btdiv.innerHtml = "<button onClick=\"home()\" style=\"padding: 0;border: none; background: none\"><img src=\"https://1pedroalmeida.github.io/aplicacoesinf/imgs/home_hover.png\" width=\"50\" height=\"50\"/></button>";
-    });
-
-    btdiv.addEventListener("mouseout", function() {
-        btdiv.innerHtml = "<button onClick=\"home()\" style=\"padding: 0;border: none; background: none\"><img src=\"https://1pedroalmeida.github.io/aplicacoesinf/imgs/home.png\" width=\"50\" height=\"50\"/></button>";
-    });
-
     function home() {
         window.location.href = 'https://1pedroalmeida.github.io/aplicacoesinf/'
     }
