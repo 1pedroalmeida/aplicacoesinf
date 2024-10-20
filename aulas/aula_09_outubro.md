@@ -121,12 +121,3 @@ Início da realização da [ficha 03](../trabalhos/D1_PedroAlmeida_Ficha03.py)
 
 ## Análise crítica à aula
 
----
-
-<div style="align-items: center; justify-content: center">
-    <a href="https://1pedro.github.io/aplicacoesinf/aulas/aula_02_outubro/"
-        <button style="padding: 0;border: none; background: none"><img src="https://1pedroalmeida.github.io/aplicacoesinf/imgs/prev.png" width="50" height="50"/></button>
-    </a><a href="https://1pedro.github.io/aplicacoesinf/aulas/aula_11_outubro/"
-        <button style="padding: 0;border: none; background: none"><img src="https://1pedroalmeida.github.io/aplicacoesinf/imgs/next.png" width="50" height="50"/></button>
-    </a>
-</div>
