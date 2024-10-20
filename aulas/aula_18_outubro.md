@@ -41,7 +41,7 @@ import turtle
 | setposition() | setpos() ou goto() | Posicionar nas coordenadas indicadas |
 | dot() | n/a | Marcar um ponto na localização corrente |
 | circle() | n/a | Desenhar um círculo |
-| clear() | n/a | Apagar todos os desenhos no ecrã |
+| clear() | n/a | Limpar o ecrã |
 
 #### Exemplos
 
