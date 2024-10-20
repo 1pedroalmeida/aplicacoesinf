@@ -1,19 +1,21 @@
 <div style="max-width: fit-content; float: right">
-    <button id="bt" onClick="home()" onmouseover="mouseHover()" onmouseout="mouseOut()" style="padding: 0;border: none; background: none"><img src="https://1pedroalmeida.github.io/aplicacoesinf/imgs/home.png" width="50" height="50"/></button>
+    <button id="bt" onClick="home()" style="padding: 0;border: none; background: none"><img src="https://1pedroalmeida.github.io/aplicacoesinf/imgs/home.png" width="50" height="50"/></button>
 </div>
 
 <script type="text/javascript">
     document.documentElement.setAttribute('data-color-mode', "dark");
 
+    bt = document.getElementById("bt")
+
+    bt.addEventListener("mouseover", function() {
+        bt.innerHtml = "<img src=\"https://1pedroalmeida.github.io/aplicacoesinf/imgs/home_hover.png\" width=\"50\" height=\"50\"/>"
+    });
+
+    bt.addEventListener("mouseout", function() {
+        bt.innerHtml = "<img src=\"https://1pedroalmeida.github.io/aplicacoesinf/imgs/home.png\" width=\"50\" height=\"50\"/>"
+    });
+
     function home() {
         window.location.href = 'https://1pedroalmeida.github.io/aplicacoesinf/'
-    }
-
-    function mouseHover() {
-        document.getElementById("bt").innerHtml = "<img src=\"https://1pedroalmeida.github.io/aplicacoesinf/imgs/home_hover.png\" width=\"50\" height=\"50\"/>"
-    }
-
-    function mouseOut() {
-        document.getElementById("bt").innerHtml = "<img src=\"https://1pedroalmeida.github.io/aplicacoesinf/imgs/home_hover.png\" width=\"50\" height=\"50\"/>"
     }
 </script>
