@@ -10,3 +10,4 @@ plugins:
 remote_theme: aleen42/markdown-only
 exclude:
   aplicacoes.txt
+  aulas/template_aula.md
