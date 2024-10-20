@@ -1,18 +1,18 @@
-<div style="max-width: fit-content; float: right">
+<div id= "btdiv" style="max-width: fit-content; float: right">
     <button id="bt" onClick="home()" style="padding: 0;border: none; background: none"><img src="https://1pedroalmeida.github.io/aplicacoesinf/imgs/home.png" width="50" height="50"/></button>
 </div>
 
 <script type="text/javascript">
     document.documentElement.setAttribute('data-color-mode', "dark");
 
-    bt = document.getElementById("bt")
+    btdiv = document.getElementById("btdiv")
 
-    bt.addEventListener("mouseover", function() {
-        bt.innerHtml = "<img src=\"https://1pedroalmeida.github.io/aplicacoesinf/imgs/home_hover.png\" width=\"50\" height=\"50\"/>"
+    btdiv.addEventListener("mouseover", function() {
+        btdiv.innerHtml = "<button onClick=\"home()\" style=\"padding: 0;border: none; background: none\"><img src=\"https://1pedroalmeida.github.io/aplicacoesinf/imgs/home_hover.png\" width=\"50\" height=\"50\"/></button>";
     });
 
-    bt.addEventListener("mouseout", function() {
-        bt.innerHtml = "<img src=\"https://1pedroalmeida.github.io/aplicacoesinf/imgs/home.png\" width=\"50\" height=\"50\"/>"
+    btdiv.addEventListener("mouseout", function() {
+        btdiv.innerHtml = "<button onClick=\"home()\" style=\"padding: 0;border: none; background: none\"><img src=\"https://1pedroalmeida.github.io/aplicacoesinf/imgs/home.png\" width=\"50\" height=\"50\"/></button>";
     });
 
     function home() {
