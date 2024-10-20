@@ -1,4 +1,8 @@
-# Aula do dia -- de --- de ----
+---
+layout: default
+---
+
+# -- de --- de ----
 
 <h3><b>Índice</b></h3>
 

@@ -1,4 +1,8 @@
-# Aula do dia 11 de outubro de 2024
+---
+layout: default
+---
+
+# 11 de outubro de 2024
 
 <h3><b>Índice</b></h3>
 
@@ -38,4 +42,3 @@ Continuação da realização da [ficha 03](../trabalhos/D1_PedroAlmeida_Ficha03
 
 ## Análise crítica à aula
 
-TODO

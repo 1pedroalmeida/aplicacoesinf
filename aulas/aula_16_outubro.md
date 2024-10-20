@@ -1,4 +1,7 @@
-# Aula do dia 16 de outubro de 2024
+---
+layout: default
+---
+# 16 de outubro de 2024
 
 <h3><b>Índice</b></h3>
 
@@ -16,4 +19,3 @@ Realização da atividade da [CodeWeek](https://compute-it.toxicode.fr) e respos
 
 ## Análise crítica à aula
 
-TODO

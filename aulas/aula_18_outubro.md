@@ -1,4 +1,8 @@
-# Aula do dia 18 de outubro de 2024
+---
+layout: default
+---
+
+# 18 de outubro de 2024
 
 <h3><b>Índice</b></h3>
 

@@ -1,4 +1,8 @@
-# Aula do dia 2 de outubro de 2024
+---
+layout: default
+---
+
+# 2 de outubro de 2024
 
 <h3><b>Índice</b></h3>
 
@@ -14,4 +18,3 @@
 
 ## Análise crítica à aula
 
-TODO

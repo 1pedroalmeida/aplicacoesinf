@@ -1,11 +1,12 @@
 title: Portfolio
-description: Portfolio das aulas de aplicações informáticas
-author: Pedro Almeida
+description: Portfolio de aplicações informáticas
+url: "https://1pedroalmeida.github.io"
+
+markdown: kramdown
+permalink: pretty
 plugins:
   - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
+  - jekyll-remote-theme
+remote_theme: aleen42/markdown-only
 exclude:
-  - aulas/template_aula.md
-  - aplicacoes.txt
+  aplicacoes.txt
