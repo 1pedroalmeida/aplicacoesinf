@@ -27,5 +27,12 @@ import turtle
 #     turtle.forward(100)
 #     turtle.left(120)
 
+# Exercício 6
+# for i in range(4):
+#     turtle.forward(100)
+#     turtle.left(90)
+
+# Exercício 7
+# turtle.circle(200)
 
 turtle.done()

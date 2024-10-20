@@ -16,5 +16,7 @@
     - codeweek
     - responder ao questionário da atividade
 18/10:
+    - conclusao ficha 3
     - LOGO linguagem
     - livraria turtle
+    - inicio ficha 4
