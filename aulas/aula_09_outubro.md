@@ -30,7 +30,7 @@ layout: default
 
 #### If
 
-A instrução `if` aceita uma condição lógica que, caso seja verdadeira (True), executa um bloco de código. Caso a condição seja falsa (False), o bloco de código é ignorado. 
+> A instrução `if` aceita uma condição lógica que, caso seja verdadeira (True), executa um bloco de código. Caso a condição seja falsa (False), o bloco de código é ignorado. 
 
 Exemplo:
 
@@ -43,7 +43,7 @@ Neste exemplo, como `1 > 0` é uma condição verdadeira, o bloco de código ser
 
 #### Elif
 
-A instrução `elif` é utilizada para verificar várias condições sequencialmente. Se a condição de uma instrução anterior for falsa, a condição da próxima instrução `elif` será verificada. 
+> A instrução `elif` é utilizada para verificar várias condições sequencialmente. Se a condição de uma instrução anterior for falsa, a condição da próxima instrução `elif` será verificada. 
 
 Exemplo:
 
@@ -59,7 +59,7 @@ Neste exemplo, como `x == 1` é uma condição falsa, o bloco de código dentro 
 
 #### Else
 
-A instrução `else` é utilizada para executar um bloco de código, caso a condição de uma instrução `if` seja falsa. 
+> A instrução `else` é utilizada para executar um bloco de código, caso a condição de uma instrução `if` seja falsa. 
 
 Exemplo:
 
@@ -78,7 +78,7 @@ Os operadores lógicos `and`, `or` e `not` combinam condições lógicas e avali
 
 #### And
 
-O operador lógico `and` avalia uma expressão como verdadeira caso ambas as condições que a compõemque a compõem sejam verdadeiras.
+> O operador lógico `and` avalia uma expressão como verdadeira caso ambas as condições que a compõemque a compõem sejam verdadeiras.
 
 ```python
 if 1 > 0 and 2 > 3:
@@ -91,7 +91,7 @@ Neste caso, como apenas a condição `1 > 0` é verdadeira, a expressão `1 > 0 
 
 #### Or
 
-O operador lógico `or` avalia uma expressão como verdadeira caso pelo menos uma das condições que a compõem sejam verdadeiras.
+> O operador lógico `or` avalia uma expressão como verdadeira caso pelo menos uma das condições que a compõem sejam verdadeiras.
 
 ```python
 if 1 > 0 or 2 > 3:
@@ -104,7 +104,7 @@ No exemplo acima, visto que a primeira condição, `1 > 0`, é verdadeira, a exp
 
 #### Not
 
-O operador lógico `not` avalia uma expressão como verdadeira caso a condição que a compõe seja falsa.
+> O operador lógico `not` avalia uma expressão como verdadeira caso a condição que a compõe seja falsa.
 
 ```python
 if not 2 > 3:
