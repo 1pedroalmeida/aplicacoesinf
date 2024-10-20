@@ -123,11 +123,10 @@ Início da realização da [ficha 03](../trabalhos/D1_PedroAlmeida_Ficha03.py)
 
 ---
 
-<div style="max-width: fit-content; margin-left: auto; margin-right: auto; display: inline-block">
-    <a href="https://1pedro.github.io/aplicacoesinf/aulas/aula_02_outubro.md"
+<div style="align-items: center; justify-content: center">
+    <a href="https://1pedro.github.io/aplicacoesinf/aulas/aula_02_outubro/"
         <button style="padding: 0;border: none; background: none"><img src="https://1pedroalmeida.github.io/aplicacoesinf/imgs/prev.png" width="50" height="50"/></button>
-    </a>
-    <a href="https://1pedro.github.io/aplicacoesinf/aulas/aula_11_outubro.md"
+    </a><a href="https://1pedro.github.io/aplicacoesinf/aulas/aula_11_outubro/"
         <button style="padding: 0;border: none; background: none"><img src="https://1pedroalmeida.github.io/aplicacoesinf/imgs/next.png" width="50" height="50"/></button>
     </a>
 </div>
