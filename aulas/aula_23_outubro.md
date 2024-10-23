@@ -26,7 +26,7 @@ layout: default
 
 #### Exemplo
 
-##### Desenhar quatro círculos de cores diferentes como apresentado na figura
+##### Desenhar quatro círculos de cores diferentes como mostra a figura:
 
 <img src="https://1pedroalmeida.github.io/aplicacoesinf/imgs/aula_23_outubro_circulos.png" height="64"/>
 
