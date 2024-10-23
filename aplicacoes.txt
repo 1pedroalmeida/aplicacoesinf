@@ -20,3 +20,6 @@
     - LOGO linguagem
     - livraria turtle
     - inicio ficha 4
+23/10
+    - continuacao ficha 4
+    - begin_fill, end_fill_ fillcolor

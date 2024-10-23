@@ -6,6 +6,7 @@ layout: default
 
 ### Registo das aulas
 
+- [**23 de outubro de 2024**](aulas/aula_23_outubro.md)
 - [**18 de outubro de 2024**](aulas/aula_18_outubro.md)
 - [**16 de outubro de 2024**](aulas/aula_16_outubro.md)
 - [**11 de outubro de 2024**](aulas/aula_11_outubro.md)
