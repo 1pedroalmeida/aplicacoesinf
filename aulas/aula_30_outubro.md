@@ -21,6 +21,7 @@ layout: default
 #### Como definir uma função
 
 Para definir uma função, usa-se a instrução `def` e, em seguida, escreve-se o nome que se quer dar à função, seguido de parênteses.
+
 Dentro desta instrução escrevemos o bloco de código que irá ser executado sempre que a função for chamada.
 
 ```python
@@ -35,6 +36,7 @@ ola()
 #### Parâmetros de uma função
 
 Uma função pode tomar parâmetros (valores fornecidos ao invocá-la), incluídos dentro dos parênteses e separados por vírgulas.
+
 Estes valores poderão ser utilizados dentro do corpo da função, pois ficam guardados em variáveis.
 
 ```python
@@ -55,6 +57,7 @@ ola("Pedro")
 #### Funções e o seu papel na objetivação e eficiência do código
 
 As funções são um recurso importante da programação.
+
 Através da divisão de tarefas que seriam de outro modo complexas, as funções dão um rumo mais objetivo ao código, tornando-o mais compreensível, reutilizável e fácil de gerir. 
 
 #### Referências relevantes:
