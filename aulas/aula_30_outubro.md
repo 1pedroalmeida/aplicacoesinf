@@ -26,7 +26,7 @@ Dentro desta instrução escrevemos o bloco de código que irá ser executado se
 
 ```python
 def ola():
-    print("Olá
+    print("Olá)
 
 # Ao chamar a função ola(), o bloco de código dentro dela é executado
 # Logo, irá ser impressa a mensagem "Olá" para a consola
