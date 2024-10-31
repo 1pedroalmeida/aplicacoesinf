@@ -54,13 +54,13 @@ ola("Pedro")
 
 ## Análise/comentário sobre a aula
 
-#### Funções e o seu papel na objetivação e eficiência do código
+### Funções e o seu papel na objetivação e eficiência do código
 
 As funções são um recurso importante da programação.
 
 Através da divisão de tarefas que seriam de outro modo complexas, as funções dão um rumo mais objetivo ao código, tornando-o mais compreensível, reutilizável e fácil de gerir. 
 
-#### Referências relevantes:
+### Referências relevantes:
 
 - Funções em python: <https://pythoniluminado.netlify.app/funcoes>
 - História e uso de funções em diversas áreas da programação: <https://en.wikipedia.org/wiki/Function_(computer_programming)>
