@@ -7,7 +7,7 @@ layout: default
 
 1. [Conteúdos dados na aula](#conteúdos-dados-na-aula)
 2. [Trabalho realizado na aula](#trabalho-realizado-na-aula)
-3. [Análise crítica à aula](#análise-crítica-à-aula)
+3. [Análise/comentário sobre a aula](#análisecomentário-sobre-a-aula)
 
 ---
 
@@ -17,5 +17,5 @@ layout: default
 
 Realização da atividade da [CodeWeek](https://compute-it.toxicode.fr) e resposta ao respetivo questionário.
 
-## Análise crítica à aula
+## Análise/comentário sobre a aula
 

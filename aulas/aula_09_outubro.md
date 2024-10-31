@@ -11,7 +11,7 @@ layout: default
     - [Condições (if, else, elif)](#condições-if-else-elif)
     - [Operadores lógicos (and, or, not)](#operadores-lógicos-and-or-not)
 2. [Trabalho realizado na aula](#trabalho-realizado-na-aula)
-3. [Análise crítica à aula](#análise-crítica-à-aula)
+3. [Análise/comentário sobre a aula](#análisecomentário-sobre-a-aula)
 
 ---
 
@@ -117,7 +117,7 @@ Dado que a condição `2 > 3` é falsa, então a expressão `not 2 > 3` é avali
 
 ## Trabalho realizado na aula
 
-Início da realização da [ficha 03](../trabalhos/D1_PedroAlmeida_Ficha03.py)
+Início da realização da [ficha 3](../trabalhos/D1_PedroAlmeida_Ficha03.py)
 
-## Análise crítica à aula
+## Análise/comentário sobre a aula
 

@@ -11,7 +11,7 @@ layout: default
         - [While loop](#while-loop)
         - [For loop](#for-loop)
 2. [Trabalho realizado na aula](#trabalho-realizado-na-aula)
-3. [Análise crítica à aula](#análise-crítica-à-aula)
+3. [Análise/comentário sobre a aula](#análisecomentário-sobre-a-aula)
 
 ---
 
@@ -38,7 +38,6 @@ for i in range(10, 0, -1):
 
 ## Trabalho realizado na aula
 
-Continuação da realização da [ficha 03](../trabalhos/D1_PedroAlmeida_Ficha03.py)
+Continuação da realização da [ficha 3](../trabalhos/D1_PedroAlmeida_Ficha03.py)
 
-## Análise crítica à aula
-
+## Análise/comentário sobre a aula
