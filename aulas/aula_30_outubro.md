@@ -34,7 +34,8 @@ ola()
 
 #### Parâmetros de uma função
 
-Uma função pode tomar parâmetros, incluídos dentro dos parênteses e separados por vírgulas.
+Uma função pode tomar parâmetros (valores fornecidos ao invocá-la), incluídos dentro dos parênteses e separados por vírgulas.
+Estes valores poderão ser utilizados dentro do corpo da função, pois ficam guardados em variáveis.
 
 ```python
 def ola(nome):
