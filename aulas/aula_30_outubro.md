@@ -54,7 +54,7 @@ ola("Pedro")
 
 ## Análise/comentário sobre a aula
 
-### Funções e o seu papel na objetivação e eficiência do código
+### Funções e o seu papel na eficiência do código
 
 As funções são um recurso importante da programação.
 
