@@ -16,7 +16,7 @@ layout: default
 
 ### Funções
 
-> Uma função, em python, é um bloco de instruções que realiza uma tarefa em específico e que é executado sempre que é chamado.
+Uma função, em python, é um bloco de instruções que realiza uma tarefa em específico e que é executado sempre que é chamado.
 
 #### Como definir uma função
 
