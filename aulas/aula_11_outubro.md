@@ -38,7 +38,6 @@ while i >= 1:
 #### For
 
 Em contraste com o ciclo `while`, o ciclo `for` já não executa o código indefinidamente, até que uma condição pare de se verificar.
-
 Neste caso, o ciclo itera apenas sobre uma sequência, até que esta chegue ao fim.
 
 A função [`range`](https://docs.python.org/2/library/functions.html#range) está muitas vezes associada com o uso deste tipo de ciclo, de forma a criar sequências de números.
