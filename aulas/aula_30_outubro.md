@@ -29,7 +29,7 @@ def ola():
     print("Olá")
 
 # Ao chamar a função ola(), o bloco de código dentro dela é executado
-# Logo, irá ser impressa a mensagem "Olá" para a consola
+# Logo, a mensagem "Olá" irá ser impressa para a consola
 ola()
 ```
 
