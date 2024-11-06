@@ -66,3 +66,5 @@ def quadrado(n):
 #         i+=1
 #
 # espiral(10)
+
+# Exercício 5

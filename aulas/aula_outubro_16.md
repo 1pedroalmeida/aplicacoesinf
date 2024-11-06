@@ -19,3 +19,12 @@ Realização da atividade da [CodeWeek](https://compute-it.toxicode.fr) e respos
 
 ## Análise/comentário sobre a aula
 
+### CodeWeek
+
+A CodeWeek é uma iniciativa iniciada em 2013 pela União Europeia, que visa promover a criatividade, a resolução de problemas e a colaboração através da programação.
+
+> Em 2021, 4 milhões de pessoas em mais de 80 países à volta do mundo participaram na Semana Europeia da Programação.
+> 
+> A idade média dos participantes rondou os 11 anos e 49 % dos participantes em 2021 eram mulheres ou raparigas. 88 % dos eventos da Semana Europeia da Programação decorreram em escolas, o que demonstra que os esforços para capacitar os professores na campanha de 2021 tiveram êxito.
+
+Link: <https://codeweek.eu/>
