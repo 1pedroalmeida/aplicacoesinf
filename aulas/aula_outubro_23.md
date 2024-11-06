@@ -16,7 +16,7 @@ layout: default
 
 ### Turtle
 
-#### Exploração de outras funções da biblioteca para além das mencionadas na [aula anterior](aula_18_outubro.md).
+#### Exploração de outras funções da biblioteca para além das mencionadas na [aula anterior](aula_outubro_18.md).
 
 | Instrução | Descrição |
 | --- | --- |
