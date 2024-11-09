@@ -54,3 +54,9 @@ Continuação da realização da [ficha 3](../trabalhos/D1_PedroAlmeida_Ficha03.
 
 ## Análise/comentário sobre a aula
 
+Os ciclos permitem-nos transformar vários processos que se repetem várias vezes em processos únicos, o que diminui significativamente a quantidade de código e o número de erros que possam aparecer.
+
+#### Links úteis:
+
+- While: <https://docs.python.org/pt-br/3/reference/compound_stmts.html#the-while-statement>
+- For: <https://docs.python.org/pt-br/3/reference/compound_stmts.html#the-for-statement>
