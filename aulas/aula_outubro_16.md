@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # 16 de outubro de 2024
 
 <h3><b>Índice</b></h3>
