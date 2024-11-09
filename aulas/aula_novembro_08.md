@@ -20,4 +20,6 @@ Conclusão da realização da [ficha 5](../trabalhos/D1_PedroAlmeida_Ficha05.py)
 
 ## Análise/comentário sobre a aula
 
-O professor fez uma crítica aos portfolios de cada aluno, referindo os seus pontos fortes e fracos, com o intuito de nos ajudar a melhorá-lo.
+O professor fez uma crítica aos portfolios de cada aluno, referindo os seus pontos fortes e fracos, focando no que poderia ser melhorado.
+
+A aula, de resto, foi bastante prática, na qual tivemos a acabar a [ficha 5](../trabalhos/D1_PedroAlmeida_Ficha05.py), com apoio do professor, inclusive.
