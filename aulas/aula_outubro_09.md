@@ -7,9 +7,6 @@ layout: default
 <h3><b>Índice</b></h3>
 
 1. [Conteúdos dados na aula](#conteúdos-dados-na-aula)
-    - [Operadores de relação](#operadores-de-relação)
-    - [Condições (if, else, elif)](#condições-if-else-elif)
-    - [Operadores lógicos (and, or, not)](#operadores-lógicos-and-or-not)
 2. [Trabalho realizado na aula](#trabalho-realizado-na-aula)
 3. [Análise/comentário sobre a aula](#análisecomentário-sobre-a-aula)
 
