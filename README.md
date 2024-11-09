@@ -2,4 +2,4 @@
 
 ---
 
-[**Link para o Portefolio**](https://1pedroalmeida.github.io/aplicacoesinf)
+[**Link para o Portfolio**](https://1pedroalmeida.github.io/aplicacoesinf)

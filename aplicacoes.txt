@@ -1,5 +1,18 @@
 -> critica e analise por aula
 -> descrição do que foi feito na aula
+-> todo:
+    - primeiras aulas
+        - introdução à disciplina
+        - algoritmos
+        - pseudocódigo
+        - programação
+        - python
+        - thonny
+    - analise e critica das aulas:
+        - 02/10
+        - 09/10
+        - 11/10
+        - 18/10
 ----------------------------------------
 9/10: 
     - condicoes
@@ -29,3 +42,6 @@
     - ficha 5
 06/11:
     - cont ficha 5
+08/11:
+    - conclusao ficha 5
+    - crítica aos portfolios

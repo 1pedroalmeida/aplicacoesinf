@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 11 de outubro de 2024
+# 6 de novembro de 2024
 
 <h3><b>Índice</b></h3>
 
@@ -16,5 +16,8 @@ layout: default
 
 ## Trabalho realizado na aula
 
+Continuação da realização da [ficha 5](../trabalhos/D1_PedroAlmeida_Ficha05.py)
+
 ## Análise/comentário sobre a aula
 
+Nesta aula, continuámos a explorar a versatilidade da biblioteca turtle, através da aplicação de ciclos ([aula do dia 11 de outubro](aula_outubro_11.md)) na construção de programas.

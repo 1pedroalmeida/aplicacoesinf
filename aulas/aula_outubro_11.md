@@ -53,3 +53,4 @@ for i in range(10, 0, -1):
 Continuação da realização da [ficha 3](../trabalhos/D1_PedroAlmeida_Ficha03.py)
 
 ## Análise/comentário sobre a aula
+
