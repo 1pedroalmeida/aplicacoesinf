@@ -44,3 +44,18 @@
 08/11:
     - conclusao ficha 5
     - crítica aos portfolios
+13/11:
+    - talento@dei
+        - atividades do polo 2
+        - departamento de engenharia informática
+    - números aleatórios
+        - num incerto
+        - não segue um padrão
+    - números pseudoaleatórios
+    - biblioteca random
+        - randint
+        - randrange
+    - inicio ficha6
+15/11:
+    - bebras: https://desafio.bebras.pt
+    - cont ficha6

@@ -132,7 +132,7 @@ def trianguloAcutangulo(base, lado):
     turtle.left(180 - anguloLadoLado)
     turtle.forward(lado)
     turtle.left(180 - anguloBaseLado)
-
+#
 # base = int(input("Medida da base: "))
 # lado = int(input("Medida dos lados: "))
 # if ((2 * lado) > base):
@@ -143,7 +143,7 @@ def trianguloAcutangulo(base, lado):
 # for i in range(3):
 #    trianguloRetangulo(100,30)
 #    turtle.right(180 - angulo)
-#
+
 # Exercício 10
 # for i in range(10):
 #    trianguloAcutangulo(30,100)

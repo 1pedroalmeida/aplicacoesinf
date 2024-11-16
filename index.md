@@ -6,6 +6,8 @@ layout: default
 
 ### Registo das aulas
 
+- [**15 de novembro de 2024**](aulas/aula_novembro_15.md)
+- [**13 de novembro de 2024**](aulas/aula_novembro_13.md)
 - [**8 de novembro de 2024**](aulas/aula_novembro_08.md)
 - [**6 de novembro de 2024**](aulas/aula_novembro_06.md)
 - [**30 de outubro de 2024**](aulas/aula_outubro_30.md)
@@ -20,6 +22,7 @@ layout: default
 
 ### Trabalhos realizados no curso da disciplina
 
+- [**Ficha 06**](trabalhos/D1_PedroAlmeida_Ficha06.py)
 - [**Ficha 05**](trabalhos/D1_PedroAlmeida_Ficha05.py)
 - [**Ficha 04**](trabalhos/D1_PedroAlmeida_Ficha04.py)
 - [**Ficha 03**](trabalhos/D1_PedroAlmeida_Ficha03.py)
