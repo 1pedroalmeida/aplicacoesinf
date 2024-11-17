@@ -16,5 +16,11 @@ layout: default
 
 ## Trabalho realizado na aula
 
+- Realização da atividade do [Bebras](https://desafio.bebras.pt/)
+- Continuação da realização da [ficha 6](../trabalhos/D1_PedroAlmeida_Ficha06.py)
+
 ## Análise/comentário sobre a aula
 
+> O Bebras é uma iniciativa mundial que promove o Pensamento Computacional através de uma prova de 45 minutos.
+
+Mais informações sobre o Bebras: <https://bebras.pt/>
