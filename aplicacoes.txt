@@ -59,3 +59,7 @@
 15/11:
     - bebras: https://desafio.bebras.pt
     - cont ficha6
+20/11:
+    - cont ficha6
+22/11:
+    - cont ficha6
