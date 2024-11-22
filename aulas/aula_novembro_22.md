@@ -20,4 +20,6 @@ Continuação da realização da [ficha 6](../trabalhos/D1_PedroAlmeida_Ficha06.
 
 ## Análise/comentário sobre a aula
 
-Aula somente prática.
+A aula foi somente prática.
+
+Concluí a ficha 6, na qual tínhamos que fazer um mini-projeto que consistia na criação de um jogo de pedra, papel ou tesoura.
