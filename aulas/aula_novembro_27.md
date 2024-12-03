@@ -88,7 +88,7 @@ Início da realização da [ficha 7](../trabalhos/D1_PedroAlmeida_Ficha07.py)
 #### Links relevantes:
 
 - Documentação adicional relativa às strings em python: <https://docs.python.org/3/library/stdtypes.html#string-methods>
-- Strings num contexto geral da programção: <https://pt.wikipedia.org/wiki/Cadeia_de_caracteres>
+- Strings num contexto geral da programação: <https://pt.wikipedia.org/wiki/Cadeia_de_caracteres>
 - Sistemas de representação de texto:
     - ASCII: <https://pt.wikipedia.org/wiki/ASCII>
     - UNICODE: <https://pt.wikipedia.org/wiki/Unicode>
