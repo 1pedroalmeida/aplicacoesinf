@@ -224,60 +224,60 @@ import random
 
 
 # Exercício 14
-# repetir = "s"
-# while repetir == "s":
-#     print("-- PEDRA, PAPEL OU TESOURA --")
-#
-#     numJogadas = int(input("Escolhe o número de jogadas da partida: "))
-#     if numJogadas < 1:
-#         print("\nNúmero de jogadas inválido!")
-#         exit()
-#
-#     vitoriasJogador = 0
-#     vitoriasComputador = 0
-#     empates = 0
-#
-#     while numJogadas != 0:
-#         jogadaComputador = random.randint(1, 3)
-#         jogadaJogador = input("A - Pedra\nB - Papel\nC - Tesoura").lower()
-#
-#         if (jogadaJogador != "a") and (jogadaJogador != "b") and (jogadaJogador != "c"):
-#             print("\nJogada inválida! A jogada escolhida precisa de ser A, B ou C!")
-#             exit()
-#
-#         if jogadaJogador == "a":
-#             jogadaJogador = 1
-#         elif jogadaJogador == "b":
-#             jogadaJogador = 2
-#         elif jogadaJogador == "c":
-#             jogadaJogador = 3
-#
-#         if jogadaComputador == 1:
-#             jogadaComputador2 = "pedra"
-#         elif jogadaComputador == 2:
-#             jogadaComputador2 = "papel"
-#         else:
-#             jogadaComputador2 = "tesoura"
-#
-#         # 1 > 3, pedra > tesoura 1 - 3 = -2
-#         # 2 > 1, papel > pedra   2 - 1 = 1
-#         # 3 > 2, tesoura > papel 3 - 2 = 1
-#         dif = jogadaJogador - jogadaComputador
-#         if jogadaJogador == jogadaComputador:
-#             empates += 1
-#             print(f"-> O computador também jogou {jogadaComputador2}. Empate!")
-#         elif (dif == -2) or (dif == 1):
-#             vitoriasJogador += 1
-#             print(f"-> O computador jogou {jogadaComputador2} e perdeu. Vitória!")
-#         else:
-#             vitoriasComputador += 1
-#             print(f"-> O computador jogou {jogadaComputador2} e ganhou. Fica para a próxima!")
-#
-#         numJogadas -= 1
-#
-#     print("\nO JOGO ACABOU!")
-#     print(f" Vitórias: {vitoriasJogador}\n Derrotas: {vitoriasComputador}\n Empates: {empates}")
-#
-#     repetir = input("\nQueres jogar outra vez (S/N)? ").lower()
-#     if (repetir != "s"):
-#         break;
+repetir = "s"
+while repetir == "s":
+    print("-- PEDRA, PAPEL OU TESOURA --")
+
+    numJogadas = int(input("Escolhe o número de jogadas da partida: "))
+    if numJogadas < 1:
+        print("\nNúmero de jogadas inválido!")
+        exit()
+
+    vitoriasJogador = 0
+    vitoriasComputador = 0
+    empates = 0
+
+    while numJogadas != 0:
+        jogadaComputador = random.randint(1, 3)
+        jogadaJogador = input("A - Pedra\nB - Papel\nC - Tesoura").lower()
+
+        if (jogadaJogador != "a") and (jogadaJogador != "b") and (jogadaJogador != "c"):
+            print("\nJogada inválida! A jogada escolhida precisa de ser A, B ou C!")
+            exit()
+
+        if jogadaJogador == "a":
+            jogadaJogador = 1
+        elif jogadaJogador == "b":
+            jogadaJogador = 2
+        elif jogadaJogador == "c":
+            jogadaJogador = 3
+
+        if jogadaComputador == 1:
+            jogadaComputador2 = "pedra"
+        elif jogadaComputador == 2:
+            jogadaComputador2 = "papel"
+        else:
+            jogadaComputador2 = "tesoura"
+
+        # 1 > 3, pedra > tesoura 1 - 3 = -2
+        # 2 > 1, papel > pedra   2 - 1 = 1
+        # 3 > 2, tesoura > papel 3 - 2 = 1
+        dif = jogadaJogador - jogadaComputador
+        if jogadaJogador == jogadaComputador:
+            empates += 1
+            print(f"-> O computador também jogou {jogadaComputador2}. Empate!")
+        elif (dif == -2) or (dif == 1):
+            vitoriasJogador += 1
+            print(f"-> O computador jogou {jogadaComputador2} e perdeu. Vitória!")
+        else:
+            vitoriasComputador += 1
+            print(f"-> O computador jogou {jogadaComputador2} e ganhou. Fica para a próxima!")
+
+        numJogadas -= 1
+
+    print("\nO JOGO ACABOU!")
+    print(f" Vitórias: {vitoriasJogador}\n Derrotas: {vitoriasComputador}\n Empates: {empates}")
+
+    repetir = input("\nQueres jogar outra vez (S/N)? ").lower()
+    if (repetir != "s"):
+        break;
