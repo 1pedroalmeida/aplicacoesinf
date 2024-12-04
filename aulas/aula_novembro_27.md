@@ -47,10 +47,10 @@ str = "ABC"
 
 print(str[0]) # A
 
-c = string[2]
+c = str[2]
 print(c) # C
 
-print(string[1]) # B
+print(str[1]) # B
 ```
 
 ### Tamanho de uma string

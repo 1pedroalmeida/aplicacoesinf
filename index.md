@@ -6,6 +6,7 @@ layout: default
 
 ### Registo das aulas
 
+- [**4 de dezembro de 2024**](aulas/aula_dezembro_04.md)
 - [**29 de novembro de 2024**](aulas/aula_novembro_29.md)
 - [**27 de novembro de 2024**](aulas/aula_novembro_27.md)
 - [**22 de novembro de 2024**](aulas/aula_novembro_22.md)
