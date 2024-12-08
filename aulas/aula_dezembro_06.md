@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 4 de dezembro de 2024
+# 6 de dezembro de 2024
 
 <h3><b>Índice</b></h3>
 
@@ -20,4 +20,4 @@ Continuação da realização da [ficha 7](../trabalhos/D1_PedroAlmeida_Ficha07.
 
 ## Análise/comentário sobre a aula
 
-Nesta aula, continuámos a fazer a ficha 7.
+Aula prática.

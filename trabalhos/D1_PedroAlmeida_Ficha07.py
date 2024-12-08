@@ -74,4 +74,13 @@
 # print(f"A frase introduzida é {tipoFrase}.")
 
 # Exercício 9
+# Numa linha do terminal, podem-se escrever 115 caracteres, independentemente do tamanho do terminal.
+# ff = input()
+# print(len(ff))
 
+# Exercício 10
+# frase = input("Escreve uma frase: ")
+# espaco = " "
+# for i in range(115-len(frase)):
+#     espaco += " "
+# print(espaco + frase)
