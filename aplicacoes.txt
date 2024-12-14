@@ -75,5 +75,8 @@
 06/12:
     - cont ficha7
 11/12:
-    - autoavaliação
     - hour of code
+    - conclusao ficha7
+13/12:
+    - teste
+    - autoavaliação
