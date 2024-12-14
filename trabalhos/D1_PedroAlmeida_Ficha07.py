@@ -126,6 +126,7 @@ while jogar == "s":
     contagemErros = 0
 
     clear()
+    print(f"Palavra: {palavraAdivinhada}")
     while contagemErros < nErros:
         letra = input("\nQual é a letra da jogada? ")
         if len(letra) == 0:
