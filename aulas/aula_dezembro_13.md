@@ -18,4 +18,4 @@ layout: default
 
 ## Análise/comentário sobre a aula
 
-Nesta última aula do 1º período, realizámos o teste de avaliação e, de seguida, respondemos ao questionário da autoavaliação.
+Nesta aula, realizámos o teste de avaliação e, de seguida, respondemos ao questionário da autoavaliação.
