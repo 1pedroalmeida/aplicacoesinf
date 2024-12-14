@@ -30,6 +30,13 @@
 #     print(f"A frase '{frase}' termina com ponto final.")
 # else:
 #     print(f"A frase '{frase}' não termina com ponto final.")
+# - SEGUNDA VERIFICAÇÃO -
+# frase = input("Escreve uma frase: ")
+# if frase.endsWith("."):
+#     print(f"A frase '{frase}' termina com ponto final.")
+# else:
+#     print(f"A frase '{frase}' não termina com ponto final.")
+
 
 # Exercício 6
 # nome = input("Escreve um nome: ")
@@ -84,3 +91,65 @@
 # for i in range(115-len(frase)):
 #     espaco += " "
 # print(espaco + frase)
+
+# MINI PROJETO 2
+import os
+def clear():
+    os.system("cls")
+# Retirei este código da internet para poder limpar a consola
+
+jogar = "s"
+while jogar == "s":
+    print("---- JOGO DA FORCA ----")
+
+    palavra = input("Escolhe a palavra: ")
+    if len(palavra) == 0:
+        print("erro: A palavra não foi escolhida")
+        break
+    elif ("_" in palavra) or (" " in palavra):
+        print("erro: A palavra não pode conter espaços ou underscores")
+        break
+
+    erros = input("Escolhe o número de tentativas erradas possível: ")
+    if len(erros) == 0:
+        print("erro: O número de tentativas erradas possíveis não foi escolhido")
+        break
+    elif int(erros) <= 0:
+        print("erro: O número de tentativas erradas possíveis não pode ser menor ou igual a 0")
+        break
+
+    palavraAdivinhada = ""
+    for i in range(len(palavra)):
+        palavraAdivinhada += "_ "
+
+    nErros = int(erros)
+    contagemErros = 0
+
+    clear()
+    while contagemErros < nErros:
+        letra = input("\nQual é a letra da jogada? ")
+        if len(letra) == 0:
+            print("erro: Tens que escrever uma letra. Tenta outra vez")
+            continue
+
+        if not (letra in palavra):
+            contagemErros += 1
+        else:
+            if letra in palavraAdivinhada:
+                print("\nLetra repetida! Já tinhas adivinhado esta letra")
+            else:
+                for i in range(len(palavra)):
+                    if palavra[i] == letra:
+                        palavraAdivinhada = palavraAdivinhada[:i*2] + palavra[i] + palavraAdivinhada[i*2+1:]
+
+        print(f"(Erros: {contagemErros}) Palavra: {palavraAdivinhada}")
+
+        if not ("_" in palavraAdivinhada):
+            print(f"\nPARABÉNS!\nAdivinhaste a palavra: {palavra.upper()}")
+            break
+
+    if contagemErros == nErros:
+        print(f"\nGAME OVER!\nErraste {nErros} vezes!\nA palavra era: {palavra.upper()}")
+        break
+
+    jogar = input("\nQueres jogar outra vez? (S/N) ").lower()

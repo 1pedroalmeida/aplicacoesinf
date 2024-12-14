@@ -73,4 +73,7 @@
 04/12:
     - cont ficha7
 06/12:
-    - 
+    - cont ficha7
+11/12:
+    - autoavaliação
+    - hour of code
