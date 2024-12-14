@@ -22,7 +22,7 @@ Conclusão da realização da [ficha 7](../trabalhos/D1_PedroAlmeida_Ficha07.py)
 
 #### Hour of Code
 
-Durante a aula, o professor fez referência à atividade da Hour of Code.
+Durante a aula, o professor fez referência à atividade da [Hour of Code](https://hourofcode.com/pt/pt).
 
 > É um evento mundial para que qualquer pessoa, de qualquer idade tenha contacto com os conceitos Ciências da Computação, durante 1 hora. Tem como objetivo mostrar que programar pode ser fácil e divertido.
 >
