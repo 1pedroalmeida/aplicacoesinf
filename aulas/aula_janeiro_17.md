@@ -20,4 +20,4 @@ Continuação da realização do trabalho de grupo com LEGO.
 
 ## Análise/comentário sobre a aula
 
-Nesta aula, continuámos a realização do trabalho de grupo com LEGO, iniciado na [aula passada](aula_janeiro_17.md).
+Nesta aula, continuámos a realização do trabalho de grupo com LEGO, iniciado na [aula passada](aula_janeiro_15.md).
