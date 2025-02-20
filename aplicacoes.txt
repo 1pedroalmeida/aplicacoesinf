@@ -1,17 +1,12 @@
 -> critica e analise por aula
 -> descrição do que foi feito na aula
 -> todo:
-    - primeiras aulas
-        - introdução à disciplina
-        - algoritmos
-        - pseudocódigo
-        - programação
-        - python
-        - thonny
-    - analise e critica das aulas:
-        - 02/10
-        - 09/10
-        - 18/10
+    - portfolio
+        - 08/01
+        - 05/02
+        - 19/02
+    - ficha8
+    - ficha9
 ----------------------------------------
 9/10: 
     - condicoes
@@ -80,3 +75,31 @@
 13/12:
     - teste
     - autoavaliação
+10/01:
+    - funções revisão
+        - return
+        - global
+        - parametro predefinido
+15/01:
+    - trabalho grupo lego
+17/01:
+    - cont trabalho grupo lego
+22/01:
+    - ficha8
+24/01:
+    - legos cont
+29/01:
+    - aula pratica
+    - portfolio
+31/01:
+    - lego projeto cargas
+05/02:
+    - arrays/listas/tuplos/set/dicionários
+        - armazenar vários valores numa única variável
+        - Lista = [ item1, item2, item3, ... ]
+        - Tuplo = ( item1, item2, item3 ) | imutável
+        - Set = { item1, item2, item3 } | não ordenado, imutável e não indexável
+        - Dicionario = { "nome": "Jaime", "idade": 37 }
+    - ficha 9 inicio
+19/02:
+    - discussao sobre a apresentacao do trabalho grupo

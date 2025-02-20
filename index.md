@@ -6,6 +6,17 @@ layout: default
 
 ### Registo das aulas
 
+- [**19 de fevereiro de 2025**](aulas/aula_fevereiro_19.md)
+- [**7 de fevereiro de 2025**](aulas/aula_fevereiro_07.md)
+- [**5 de fevereiro de 2025**](aulas/aula_fevereiro_05.md)
+- [**31 de janeiro de 2025**](aulas/aula_janeiro_31.md)
+- [**29 de janeiro de 2025**](aulas/aula_janeiro_29.md)
+- [**24 de janeiro de 2025**](aulas/aula_janeiro_24.md)
+- [**22 de janeiro de 2025**](aulas/aula_janeiro_22.md)
+- [**17 de janeiro de 2025**](aulas/aula_janeiro_17.md)
+- [**15 de janeiro de 2025**](aulas/aula_janeiro_15.md)
+- [**10 de janeiro de 2025**](aulas/aula_janeiro_10.md)
+- [**8 de janeiro de 2025**](aulas/aula_janeiro_08.md)
 - [**13 de dezembro de 2024**](aulas/aula_dezembro_13.md)
 - [**11 de dezembro de 2024**](aulas/aula_dezembro_11.md)
 - [**6 de dezembro de 2024**](aulas/aula_dezembro_06.md)
