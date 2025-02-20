@@ -41,6 +41,8 @@ layout: default
 
 ### Trabalhos realizados no curso da disciplina
 
+- [**Ficha 09**](trabalhos/D1_PedroAlmeida_Ficha09.py)
+- [**Ficha 08**](trabalhos/D1_PedroAlmeida_Ficha08.py)
 - [**Ficha 07**](trabalhos/D1_PedroAlmeida_Ficha07.py)
 - [**Ficha 06**](trabalhos/D1_PedroAlmeida_Ficha06.py)
 - [**Ficha 05**](trabalhos/D1_PedroAlmeida_Ficha05.py)
