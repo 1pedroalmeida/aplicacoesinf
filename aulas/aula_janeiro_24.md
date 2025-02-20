@@ -20,4 +20,4 @@ Continuação da realização do trabalho de grupo com LEGO.
 
 ## Análise/comentário sobre a aula
 
-Mais informação sobre o [projeto](aula_janeiro_15.md)
+Mais informação sobre o [projeto](aula_janeiro_15.md).
