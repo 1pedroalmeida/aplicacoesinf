@@ -20,4 +20,4 @@ Continuação da realização do mini-projeto iniciado na [aula de 31 de janeiro
 
 ## Análise/comentário sobre a aula
 
-Aula somente prática com foco na finalização do trabalho-projeto.
+Aula somente prática, com foco na finalização do trabalho-projeto.

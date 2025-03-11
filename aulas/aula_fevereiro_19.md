@@ -18,5 +18,6 @@ layout: default
 
 ## Análise/comentário sobre a aula
 
-A aula serviu para discutirmos o decorrer das apresentações relacionados com os trabalhos-projeto de grupo que deram início na [aula de 31 de janeiro](aula_janeiro_31.md).
+A aula serviu para discutirmos o decorrer das apresentações, relativas aos trabalhos-projeto que deram início na [aula de 31 de janeiro](aula_janeiro_31.md).
+
 O professor expôs-nos um modelo dos tópicos que deveríamos abordar, o que nos ajudou no planeamento da nossa apresentação.
