@@ -20,4 +20,4 @@ layout: default
 
 Nesta aula, concluímos as apresentações dos trabalhos-projeto com a apresentação do nosso grupo ([PDF da apresentação](../trabalhos/mini-projeto-lego/trabalho-projeto-lego.pdf)).
 
-<video src="https://1pedroalmeida.github.io/aplicacoesinf/trabalhos/mini-projeto-lego/video.mp4">
+<video src="https://1pedroalmeida.github.io/aplicacoesinf/trabalhos/mini-projeto-lego/video.mp4" controls>
