@@ -4,7 +4,7 @@
     - portfolio
         - 08/01
         - 05/02
-        - 19/02
+        - 07/02
     - ficha8
     - ficha9
 ----------------------------------------
@@ -103,3 +103,5 @@
     - ficha 9 inicio
 19/02:
     - discussao sobre a apresentacao do trabalho grupo
+26/02:
+    - inicio apresentacoes trabalhos projeto
