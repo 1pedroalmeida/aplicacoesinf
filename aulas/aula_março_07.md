@@ -18,6 +18,6 @@ layout: default
 
 ## Análise/comentário sobre a aula
 
-Nesta aula, concluímos as apresentações dos trabalhos-projeto com a apresentação do nosso grupo ([PDF da Apresentação](../trabalhos/mini-projeto-lego/trabalho-projeto-lego.pdf)).
+Nesta aula, concluímos as apresentações dos trabalhos-projeto com a apresentação do nosso grupo ([PDF da apresentação](../trabalhos/mini-projeto-lego/trabalho-projeto-lego.pdf)).
 
-![](https://1pedroalmeida.github.io/aplicacoesinf/trabalhos/mini-projeto-lego/video.mp4)
+<video src="https://1pedroalmeida.github.io/aplicacoesinf/trabalhos/mini-projeto-lego/video.mp4">
