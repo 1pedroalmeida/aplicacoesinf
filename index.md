@@ -6,6 +6,9 @@ layout: default
 
 ### Registo das aulas
 
+- [**7 de março de 2025**](aulas/aula_março_07.md)
+- [**26 de fevereiro de 2025**](aulas/aula_fevereiro_26.md)
+- [**21 de fevereiro de 2025**](aulas/aula_fevereiro_21.md)
 - [**19 de fevereiro de 2025**](aulas/aula_fevereiro_19.md)
 - [**7 de fevereiro de 2025**](aulas/aula_fevereiro_07.md)
 - [**5 de fevereiro de 2025**](aulas/aula_fevereiro_05.md)
