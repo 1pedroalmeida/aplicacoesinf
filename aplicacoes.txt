@@ -1,10 +1,16 @@
 -> critica e analise por aula
 -> descrição do que foi feito na aula
 -> todo:
+    - faltas
+    - ???
+        - 28/02
     - portfolio
         - 08/01
         - 05/02
         - 07/02
+        - 14/03
+        - 21/03
+        - 26/03
     - ficha8
     - ficha9
 ----------------------------------------
@@ -101,7 +107,29 @@
         - Set = { item1, item2, item3 } | não ordenado, imutável e não indexável
         - Dicionario = { "nome": "Jaime", "idade": 37 }
     - ficha 9 inicio
+07/02:
+    -
+12/02:
+    - FALTA -------------------------
+14/02:
+    - FALTA -------------------------
 19/02:
     - discussao sobre a apresentacao do trabalho grupo
+21/02:
+    - cont trabalho grupo
 26/02:
     - inicio apresentacoes trabalhos projeto
+28/02:
+    - ???
+07/03:
+    - apresentaçao trabalho\
+12/03:
+    - multimedia inicio
+14/03:
+    - imagens (bitmap/vetorial)
+    - formato de imagens
+    - cartaz dia do pi
+21/03:
+    - exercicios com 3 imgs
+26/03:
+    - exercicios com 2 imgs
