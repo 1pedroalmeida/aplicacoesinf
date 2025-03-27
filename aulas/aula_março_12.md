@@ -20,7 +20,7 @@ layout: default
 
 ### Multimédia
 
-Nesta aula, fechamos o capítulo da programação e iniciámos um novo domínio: **a multimédia**. 
+Nesta aula, fechámos o capítulo da programação e iniciámos um novo domínio: **a multimédia**. 
 
 #### Em que consiste a multimédia?
 
